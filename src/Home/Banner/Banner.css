@@ -1,0 +1,64 @@
+/* .banner{
+    background-image: url('https://images.unsplash.com/photo-1516528387618-afa90b13e000?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8anVuZ2xlJTIwamFtYnVyZWUlMjBiYW5uZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+} */
+/* linear-gradient(to bottom, rgba(26, 23, 13, 0.219), rgba(0, 0, 0, 0.273)) , */
+
+
+/* .add-banner{
+    background-image:  url('https://i.ibb.co/KxBDg8P/7.png');
+    height: 100%;
+ width: 100%;
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+} */
+
+
+/* https://i.ibb.co/KmrPPZm/349.jpg */
+/* https://i.ibb.co/TL2Ph7h/fluffy-toy-texture-close-up.jpg */
+
+/* pink */
+/* https://i.ibb.co/m8JrbCg/gallery1.jpg */
+
+
+/* jebra blue */
+/* https://i.ibb.co/6P53z0d/gallery2.jpg */
+
+.banner {
+    background-image: url('https://i.ibb.co/TL2Ph7h/fluffy-toy-texture-close-up.jpg');
+    height: 100vh;
+    
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+}
+
+.banner-login {
+    background-image: url(' https://i.ibb.co/TL2Ph7h/fluffy-toy-texture-close-up.jpg ');
+    /* height: 100vh; */
+    
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+}
+
+
+.banner-register {
+    background-image: url(' https://i.ibb.co/6P53z0d/gallery2.jpg ');
+    /* height: 100vh; */
+    
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+}
+
+
+

@@ -1,0 +1,114 @@
+[
+    {
+        "img": "https://media.istockphoto.com/id/531228483/photo/arlington-court-the-country-estate-barnstaple-devon-england-uk.jpg?b=1&s=170667a&w=0&k=20&c=O4LBzkTu1H4-rv9N6kESyFoFi_BYfy4OfDe5kPQLLtI=",
+        "toy_name": "Horse",
+        "seller_name": "Toy Haven",
+        "seller_email": "sales@toyhaven.com",
+        "price": 24.99,
+        "ratings": 4.2,
+        "available_quantity": 8,
+        "subcategory": "Wild Kingdom",
+        "description": "Beautifully crafted horse toy with realistic features and movable parts."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1192821835/photo/boy-playing-with-toy-dinosaurs.jpg?b=1&s=170667a&w=0&k=20&c=Q_uxPOHZTqxsB6csm6qqSoRC-8EQZtNs8J2lRKE8s0s=",
+        "toy_name": "Dinosaur",
+        "seller_name": "Prehistoric Toys",
+        "seller_email": "contact@prehistorictoys.com",
+        "price": 12.99,
+        "ratings": 4.7,
+        "available_quantity": 15,
+        "subcategory": "Wild Kingdom",
+        "description": "Roar into adventure with this fearsome dinosaur toy that brings the Jurassic era to life."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/481198620/photo/terrier-playing-with-a-colourful-ball.jpg?b=1&s=170667a&w=0&k=20&c=txqB6WUbT7TjZwSn40JFRwykkmGUTKHVwu1gJlygUSA=",
+        "toy_name": "Dogs",
+        "seller_name": "Puppy Paradise",
+        "seller_email": "sales@puppyparadise.com",
+        "price": 14.99,
+        "ratings": 4.8,
+        "available_quantity": 12,
+        "subcategory": "Pet Pals",
+        "description": "Adorable and playful dog toys that are perfect for interactive playtime."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/540734196/photo/bangkok-thailand-4-june-2016-cute-cat-doll-on-white-background.jpg?s=612x612&w=0&k=20&c=hXfbShfFDZUiiLfaNGKqebKBwfLYMf9rQwHHkvLizns=",
+        "toy_name": "Cat",
+        "seller_name": "Purrfect Toys",
+        "seller_email": "info@purrfecttoys.com",
+        "price": 9.99,
+        "ratings": 4.3,
+        "available_quantity": 20,
+        "subcategory": "Pet Pals",
+        "description": "Entertain your feline friend with these fun and engaging cat toys."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1194090986/photo/little-girl-reading-favorite-book-at-home.jpg?s=612x612&w=0&k=20&c=acAwGWUJRPnraKa7rkWN7P1ndoJKTFOk3Li1ieBQ7Wg=",
+        "toy_name": "Rabbit",
+        "seller_name": "Bunny Bunch",
+        "seller_email": "info@bunnybunch.com",
+        "price": 11.99,
+        "ratings": 4.6,
+        "available_quantity": 9,
+        "subcategory": "Pet Pals",
+        "description": "Adorable rabbit toys that hop right into your heart."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1332455278/photo/smiling-white-light-brown-and-dark-brown-teddy-bears-sitting-on-table-at-pink-wall-background.jpg?s=612x612&w=0&k=20&c=vt3NvcLmXOFQQdbp_9_V3ZVlC1Dd47OFk4UEbgDd750=",
+        "toy_name": "Teddy Bear",
+        "seller_name": "Toy Kingdom",
+        "seller_email": "info@toyseller.com",
+        "price": 19.99,
+        "ratings": 4.5,
+        "available_quantity": 10,
+        "subcategory": "Wild Kingdom",
+        "description": "Soft and cuddly teddy bear perfect for hugging and snuggling."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/1213573587/photo/toy-is-bigger-than-me.jpg?b=1&s=170667a&w=0&k=20&c=ZBmUmJcmGE_rCLNLpDvm7h4UEudpUb9gLdI85MUmBbY=",
+        "toy_name": "Elephant",
+        "seller_name": "Jungle Treasures",
+        "seller_email": "sales@jungletreasures.com",
+        "price": 16.99,
+        "ratings": 4.1,
+        "available_quantity": 14,
+        "subcategory": "Wild Kingdom",
+        "description": "Discover the wonders of the jungle with this delightful elephant toy."
+    },
+    {
+        "img": "https://media.istockphoto.com/id/94736027/photo/did-you-say-something.jpg?s=612x612&w=0&k=20&c=_BzKEE0vJ25YnuXZSZAuuLniQ35tcZb1ox33AmQsLWw=",
+        "toy_name": "Penguin",
+        "seller_name": "Arctic Adventures",
+        "seller_email": "contact@arcticadventures.com",
+        "price": 13.99,
+        "ratings": 4.7,
+        "available_quantity": 7,
+        "subcategory": "Ocean Explorers",
+        "description": "Waddle into fun with this cute and cuddly penguin toy."
+    },
+
+    
+    {
+        "img": "path/to/image1.jpg",
+        "toy_name": "Dolphin",
+        "seller_name": "Merin Samshu",
+        "seller_email": "Merin Samshu@gmail.com",
+        "price": 19.99,
+        "ratings": 4.5,
+        "subcategory": "Ocean Explorers",
+        "available_quantity": 10,
+        "description": "A lifelike dolphin toy that swims and interacts with its surroundings."
+    },
+    {
+        "img": "path/to/image2.jpg",
+        "toy_name": "Shark",
+        "seller_name": "Marine Hire",
+        "seller_email": "marine.toys@example.com",
+        "ratings": 4.2,
+        "subcategory": "Ocean Explorers",
+        "description": "Realistic shark toy with movable jaw and lifelike swimming motion.",
+        "price": 14.99,
+        "available_quantity": 5
+    }
+]
