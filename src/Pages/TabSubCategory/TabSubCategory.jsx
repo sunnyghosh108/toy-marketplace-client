@@ -11,7 +11,7 @@ const TabSubCategory = () => {
         <h2 className="text-center text-3xl text-sky-500 font-bold">All Toys Collection</h2>
             <Tabs className='rounded-3xl md:p-10  mx-auto'>
                     <TabList className="text-center mt-3">
-                        <Tab><span className="text-2xl font-semibold text-slate-950">Ocean Explorers</span> </Tab>
+                        <Tab><span className="text-2xl font-semibold text-slate-950">Ocean </span> </Tab>
                         <Tab><span className="text-2xl font-semibold text-slate-950">Pet Pals </span></Tab>
                         <Tab><span className="text-2xl font-semibold text-slate-950">Wild Kingdom </span></Tab>
                     </TabList>
