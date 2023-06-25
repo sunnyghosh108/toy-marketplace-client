@@ -14,7 +14,7 @@ const AdorableAnimal = () => {
     return (
         <div data-aos="fade-up"  className="my-24">
             <h1 className="text-center text-3xl font-semibold">Adorable Animal Toys Collection</h1>
-            <p className="text-center font-semibold w-[80%] my-5 text-sm mx-auto"> Welcome to the enchanting world of the Adorable Animal Toys Collection!.</p>
+            <p className="text-center font-semibold w-[80%] my-5 text-sm mx-auto"> Welcome to the enchanting world of the Adorable Animal Toys Collection!</p>
             <Marquee pauseOnClick speed={70}>
                 <div className="flex gap-5 m-10">
                     {
