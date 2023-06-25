@@ -3,7 +3,7 @@ import { useContext } from 'react';
 
 import { Link } from 'react-router-dom';
 import { AuthContext } from '../../Providers/AuthProvider/AuthProvider';
-import SocialLogin from './SocialLogin';
+//import SocialLogin from './SocialLogin';
 const Register = () => {
 //TODO
     
@@ -72,7 +72,7 @@ const {signup}=useContext(AuthContext)
                         </div>
                     </form>
                     <p className='my-4 text-center'>New to website <Link className='text-orange-600 font-bold' to="/login">login</Link> </p>
-                   <SocialLogin></SocialLogin>
+                   {/* <SocialLogin></SocialLogin> */}
                 </div>
             </div>
         </div>
