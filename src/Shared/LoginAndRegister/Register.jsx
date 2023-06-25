@@ -37,7 +37,7 @@ const {signup}=useContext(AuthContext)
             </div>
             <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
                 <div className="card-body">
-                    <h1 className="text-3xl text-center font-bold">register!!</h1>
+                    <h1 className="text-3xl text-center font-bold">Register</h1>
                     <form onSubmit={handleRegister}>
                         
                         <div className="form-control">
@@ -68,7 +68,7 @@ const {signup}=useContext(AuthContext)
                             </label>
                         </div>
                         <div className="form-control mt-6">
-                            <input className="btn btn-primary" type="submit" value="Login" />
+                            <input className="btn btn-primary" type="submit" value="Register" />
                         </div>
                     </form>
                     <p className='my-4 text-center'>New to website <Link className='text-orange-600 font-bold' to="/login">login</Link> </p>
