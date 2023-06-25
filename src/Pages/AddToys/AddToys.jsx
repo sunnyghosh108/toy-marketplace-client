@@ -52,7 +52,7 @@ const AddToys = () => {
                 if (data.insertedId) {
                     Swal.fire(
                         'Added Product!',
-                        'Successfully Added Your Product!',
+                        'Successfully Added Your toy!',
                         'success'
                     )
 
@@ -61,37 +61,7 @@ const AddToys = () => {
 
     }
 
-    // const options = [
-    //     { value: 'Cow Ride-On Toys', label: 'Cow Ride-On Toys' },
-    //     { value: 'Cow Learning Toys', label: 'Cow Learning Toys' },
-    //     { value: 'Cow Plushies', label: 'Cow Plushies' },
-
-
-    //     { value: 'Roaring Kings', label: 'Roaring Kings' },
-    //     { value: 'Lion Pride Plush', label: 'Lion Pride Plush' },
-    //     { value: 'Cowardly Lion', label: 'Cowardly Lion' },
-
-    //     { value: 'Teddy Bear', label: 'Teddy Bear' },
-    //     { value: 'Red Panda', label: 'Red Panda' },
-    //     { value: 'Plush Panda', label: 'Plush Panda' },
-
-    //     { value: 'Nutty Elepent', label: 'Nutty Elepent' },
-    //     { value: 'Pink Elepent', label: 'Pink Elepent' },
-    //     { value: 'Rubber Elepent', label: 'Rubber Elepent' },
-
-    //     { value: 'Perky Penguin', label: 'Plush Panda' },
-    //     { value: 'Christmas penguin', label: 'Christmas penguin' },
-    //     { value: 'Baby penguin', label: 'Baby penguin' },
-
-
-
-    //     { value: 'Majestic Tiger', label: 'Majestic Tiger' },
-    //     { value: 'Woolen Tiger', label: 'Woolen Tiger' },
-    //     { value: 'Fluffy Tiger', label: 'Fluffy Tiger' },
-
-
-
-    // ];
+   
 
 
 
