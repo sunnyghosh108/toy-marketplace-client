@@ -113,7 +113,7 @@ const Blogs = () => {
 
 
                 <div>
-                    <h1 className="font-semibold text-4xl mb-5">iii.  What is Nest JS?</h1>
+                    <h1 className="font-semibold text-4xl mb-5">iii. What is express js? What is Nest JS?</h1>
 
 
                     <h1 className='text-lg font-bold'>express JS</h1>

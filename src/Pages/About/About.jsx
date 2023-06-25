@@ -41,7 +41,7 @@ const About = () => {
 
                     <div data-aos="fade-up" className='space-y-4'>
                         <h1 className='font-semibold text-3xl'>Welcome to Our Animal Toys Wonderland</h1>
-                        <p className='font-medium text-sm'>Jungle Jamboree we are passionate about bringing joy and imagination to children and animal enthusiasts alike. Our online store is dedicated to providing a wide range of high-quality and delightful animal toys that will captivate hearts and inspire endless hours of playtime adventures.</p>
+                        <p className='font-medium text-sm'></p>
                     </div>
 
                     <div data-aos="fade-up" className='space-y-4'>
